@@ -1,5 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 body {
-  background: transparent; /* Make it white if you need */
+  background: transparent;
   padding: 0 24px;
   margin: 0;
   height: 100vh;
@@ -12,3 +16,4 @@ body {
 .App {
   color: #72a24d;
 }
+
